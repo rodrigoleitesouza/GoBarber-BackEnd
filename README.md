@@ -26,7 +26,7 @@ Uma vez que se trata de um aplicação completa, é necessário que a parcela re
 
 ### `Demonstração`
 
-![GIF](https://media1.giphy.com/media/i4LBVHk919YQ4MQjgA/giphy.gif)
+![GIF](https://i.imgur.com/dXn8rT3.gif)
 
 ------------------------------------------------------------------
 
