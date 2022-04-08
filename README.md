@@ -1,4 +1,4 @@
-# GoBarber-Web :computer:
+# GoBarber-BackEnd :floppy_disk:
 
 ### `Conceito`
 
@@ -10,19 +10,19 @@ GoBarber é uma aplicação para agendamento de serviços de beleza que atua nas
 
 ### `Objetivo`
 
-O presente repositório trata apenas da aplicação web que é utilizada pelos prestadores de serviço de beleza a fim de consultar os agendamentos que foram realizados pelos clientes utilizando a aplicação mobile.
+O presente repositório trata apenas do Back-End, ou seja, das regras de negócio e banco de dados de ambas as aplicações, web e mobile. 
 
 ### `Como iniciar?`
 
-Defina em seu terminal o diretório "*Project*" e digite "*yarn start*".
+Defina em seu terminal o diretório "*Project*" e digite "*yarn dev*".
 
 ### `Como usar?`
 
-Crie uma conta de usuário, faça *login* e consulte os agendamentos marcados para seus serviços.
+Após iniciar o Back-End, rode as aplicações, seja web ou mobile, e as utilize.
 
 ### `Importante`
 
-Uma vez que se trata de um aplicação completa, é necessário que a parcela referente ao Back-End esteja operando concomitantemente à parcela do Front-End.
+Uma vez que se trata de um aplicação completa, é necessário que a parcela referente ao Back-End esteja operando concomitantemente às parcelas do Front-End.
 
 ### `Demonstração`
 
