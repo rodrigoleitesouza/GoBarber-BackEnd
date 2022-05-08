@@ -12,6 +12,18 @@ GoBarber é uma aplicação para agendamento de serviços de beleza que atua nas
 
 O presente repositório trata apenas do Back-End, ou seja, das regras de negócio e banco de dados de ambas as aplicações, web e mobile. 
 
+### `Tecnologias`
+
+- Express;
+- Nodemailer;
+- Sequelize;
+- Multer;
+- Bcrypt.JS;
+- Youch;
+- Dotenv;
+- Jsonwebtoken;
+- Mongoose.
+
 ### `Como iniciar?`
 
 Defina em seu terminal o diretório "*Project*" e digite "*yarn dev*".
